@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.first-nav{
+    height: 5vh;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+nav{
+    box-shadow: 0 -5px 10px rgba(0,0,0,0.3);
+}
+img{
+    max-width: 100%;
+}
+.nav-item>a:hover{
+    color: #007bff;
+    font-weight: bold;
+}
+header{
+    box-shadow: 0 10px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+}
+
